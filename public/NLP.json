@@ -1,0 +1,240 @@
+[
+    {
+      "ID": 1,
+      "name": "Resume Screening",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%201%20Resume%20Screening/resumeScreening.ipynb",
+      "description": "Description of Project 1",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wWPKSoR92y1AkWuw?e=n0UEQE"
+    },
+    {
+      "ID": 2,
+      "name": "Named Entity Recognition",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%202%20Named%20Entity%20Recognition/NameEnitityRecognition.ipynb",
+      "description": "Description of Project 2",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-whCQ1q82rMlDA3PQ?e=GzypX2"
+    },
+    {
+      "ID": 3,
+      "name": "Sentiment Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%203%20Sentiment%20Analysis/centimentAnalysis.ipynb",
+      "description": "Description of Project 3",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wj11MYeSMMg4MBgQ?e=7Upq2Y"
+    },
+    {
+      "ID": 4,
+      "name": "Keyword Extraction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%204%20Keyword%20Extraction/4.KeywordExtraction.ipynb",
+      "description": "Description of Project 4",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wktjIX1E0xRr2ljA?e=d6XLUe"
+    },
+    {
+      "ID": 5,
+      "name": "Correct Spelling",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%205%20Correct%20Spelling/CorrectSpelling.ipynb",
+      "description": "Description of Project 5",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wljwE9PL6otPzSRQ?e=6o9VMh"
+    },
+    {
+      "ID": 6,
+      "name": "Autocorrect",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%206%20Autocorrect/Autocorrect%20.ipynb",
+      "description": "Description of Project 6",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wmNZaIopvdAjVCwQ?e=Nx1yFc"
+    },
+    {
+      "ID": 7,
+      "name": "Predict_US_election",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%207%20Predict_US_election/PredictUSelection.ipynb",
+      "description": "Description of Project 7",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wnM0lIbCSiK6jNWA?e=P1q6sG"
+    },
+    {
+      "ID": 8,
+      "name": "NLP for other languages",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%208%20NLP%20for%20other%20languages/NLP_for_Other_languages.ipynb",
+      "description": "Description of Project 8",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wosPJlWpoOUL_gHQ?e=IolcRe"
+    },
+    {
+      "ID": 9,
+      "name": "Text Classification",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%209%20Text%20Classification/textClassification.ipynb",
+      "description": "Description of Project 9",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wpQE7YEzSKXIYb4g?e=M5MJta"
+    },
+    {
+      "ID": 10,
+      "name": "Text Summarization",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2010%20Text%20Summarization/TextSummarization.ipynb",
+      "description": "Description of Project 10",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wXlOP9L6_pLrmnKw?e=wm8soB"
+    },
+    {
+      "ID": 11,
+      "name": "Hate Speech Detection",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2011%20Hate%20Speech%20Detection/HateSpeechDetection.ipynb",
+      "description": "Description of Project 11",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wYiyO4Nxy_WgJ12w?e=ca3aW0"
+    },
+    {
+      "ID": 12,
+      "name": "Keyword Research",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2012%20Keyword%20Research/KeywordResearch.ipynb",
+      "description": "Description of Project 12",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wZla22svyC_nkGxw?e=YWJKCL"
+    },
+    {
+      "ID": 13,
+      "name": "WhatsApp Group Chat Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2013%20WhatsApp%20Group%20Chat%20Analysis/WhatsappGroupChatAnalysis.ipynb",
+      "description": "Description of Project 13",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-h-waBRaDOBxiKx_pCQ?e=89f0Wp"
+    },
+    {
+      "ID": 14,
+      "name": "Next Word prediction Model",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2014%20Next%20Word%20prediction%20Model/NextWordPrediction.ipynb",
+      "description": "Description of Project 14",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wb9uHpxHeMKr5uNw?e=LGaoXa"
+    },
+    {
+      "ID": 15,
+      "name": "Fake News Detection Model",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2015%20Fake%20News%20Detection%20Model/Fake%20News%20Detection.ipynb",
+      "description": "Description of Project 15",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wcaTWJ4xI9unAQlQ?e=VG4fky"
+    },
+    {
+      "ID": 16,
+      "name": "NLP for whatsapp chats",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2016%20NLP%20for%20whatsapp%20chats/NLP%20for%20whatsapp%20status.ipynb",
+      "description": "Description of Project 16",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wdZWZGHbL-8Urvrw?e=NYBvNI"
+    },
+    {
+      "ID": 17,
+      "name": "Twitter Sentiment Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2017%20Twitter%20Sentiment%20Analysis/TwiterSentimentAnalysis.ipynb",
+      "description": "Description of Project 17",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wegQZCy2e9AV-Vkg?e=M8Zwdk"
+    },
+    {
+      "ID": 18,
+      "name": "SMS spam detection",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2018%20SMS%20spam%20detection/SMSspam%20detection.ipynb",
+      "description": "Description of Project 18",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wfvc8T77-H1BsZXg?e=6MOB2R"
+    },
+    {
+      "ID": 19,
+      "name": "MoviesReviewSentiments",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2019%20MoviesReviewSentiments/MoviewReviewSentiment.ipynb",
+      "description": "Description of Project 19",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wgneGz18upqSUmpA?e=4vih5E"
+    },
+    {
+      "ID": 20,
+      "name": "Amazon Sentiment Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2020%20Amazon%20Sentiment%20Analysis/AmazonCentiment_Analysis.ipynb",
+      "description": "Description of Project 20",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wilCEqOIQLArnwBA?e=V4krs6"
+    },
+    {
+      "ID": 21,
+      "name": "Sentiment Analysis - Dow Jones (DJIA) Stock using News Headlines",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2021%20Sentiment%20Analysis%20-%20Dow%20Jones%20(DJIA)%20Stock%20using%20News%20Headlines/Stock%20Sentiment%20Analysis.ipynb",
+      "description": "Description of Project 21",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wqjQq_41ue5DIbIg?e=LJFYvn"
+    },
+    {
+      "ID": 22,
+      "name": "Sentiment Analysis - Restaurant Reviews",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2022%20Sentiment%20Analysis%20-%20Restaurant%20Reviews/Sentiment%20Analysis%20of%20Restaurant%20Reviews.ipynb",
+      "description": "Description of Project 22",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wroBSRCNaFGLt5Yg?e=qkv8Yq"
+    },
+    {
+      "ID": 23,
+      "name": "Spam SMS Classification",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2023%20Spam%20SMS%20Classification/Spam%20SMS%20Classication.ipynb",
+      "description": "Description of Project 23",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wsu2HrD3WZiyMx-w?e=n83cmh"
+    },
+    {
+      "ID": 24,
+      "name": "Hillary Clinton and Donald Trump Tweets",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2024%20Hillary%20Clinton%20and%20Donald%20Trump%20Tweets/Hillary%20Clinton%20and%20Donald%20Trump%20tweets%20(2).ipynb",
+      "description": "Description of Project 24",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wtpiBNwx7YWzM7tA?e=bkcGkr"
+    },
+    {
+      "ID": 25,
+      "name": "Twitter Us Airline Sentiment Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2025%20Twitter%20Us%20Airline%20Sentiment%20Analysis/Twitter%20US%20Sentiment%20Analysis.ipynb",
+      "description": "Description of Project 25",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wuWEaB0ZvbLVav1Q?e=XGyfb7"
+    },
+    {
+      "ID": 26,
+      "name": "IMDB Sentiment Analysis using Deep Learning",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2026%20IMDB%20Sentiment%20Analysis%20using%20Deep%20Learning/sentiment-analysis-with-ml.ipynb",
+      "description": "Description of Project 26",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wvh7PcK3k6Jsclzw?e=9DxSLj"
+    },
+    {
+      "ID": 27,
+      "name": "Amazon Alexa Review Sentiment Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2027%20Amazon%20Alexa%20Review%20Sentiment%20Analysis/alexa-amazon-reviews(1).ipynb",
+      "description": "Description of Project 27",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wweT8wDQckyVkXXw?e=0stoCe"
+    },
+    {
+      "ID": 28,
+      "name": " Build Sentiment Analysis Flask Web App",
+      "link": "https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2028%20Build_Sentiment_Analysis_Flask_Web_App/Sentiment_Analysis_IMDB.ipynb",
+      "description": "Description of Project 28",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wx_HqtlajLyfLTuQ?e=ZAGj0e"
+    },
+    {
+      "ID": 29,
+      "name": "Sentiment Analysis - Restaurant Reviews",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2029%20Sentiment%20Analysis%20-%20Restaurant%20Reviews/Sentiment%20Analysis%20of%20Restaurant%20Reviews.ipynb",
+      "description": "Description of Project 29",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-wzlLVcT0htt80Egg?e=oB5LIF"
+    },
+    {
+      "ID": 30,
+      "name": "SMS Spam Detection Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2030%20SMS%20Spam%20Detection%20Analysis/SMS%20Spam%20Detection%20Analysis%20-%20NLP.ipynb",
+      "description": "Description of Project 30",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-w0MQsWrN5lkxJvuQ?e=rkS274"
+    },
+    {
+      "ID": 31,
+      "name": "Text Summarization using Word Frequency",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2031%20Text%20Summarization%20using%20Word%20Frequency/Text%20Summarization%20using%20Word%20Frequency%20-%20NLP.ipynb",
+      "description": "Description of Project 31",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-w1xvtZJCkMRvoCkw?e=e7IXxO"
+    },
+    {
+      "ID": 32,
+      "name": "GitHub Bugs Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2033%20GitHub%20Bugs%20Prediction/github-bugs-prediction-using-transformer.ipynb",
+      "description": "Description of Project 32",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-w24aX8xwBJT5zBpw?e=sJwJuj"
+    },
+    {
+      "ID": 33,
+      "name": "Stop words in 28 Languages",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2034%20Stop%20words%20in%2028%20Languages/hindi-stop-words-w2v(1).ipynb",
+      "description": "Description of Project 33",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-w3Qc5I5I0nGWvr7w?e=XcENEw"
+    },
+    {
+      "ID": 34,
+      "name": "Text Similarity",
+      "link":"https://colab.research.google.com/github/projeksainsdata/NLP_Project_V1/blob/main/NLP%20Project%2034%20Text%20Similarity/word-cloud-in-python-for-beginners.ipynb",
+      "description": "Description of Project 34",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-h-w4kS9C1RI1_xcytg?e=cjoaP0"
+    }
+  ]

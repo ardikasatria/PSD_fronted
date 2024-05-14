@@ -1,0 +1,869 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@media (min-width: 650px){
+    
+    body[data-theme="dark"] .ce-toolbar__plus path,
+    body[data-theme="dark"] .ce-toolbar__settings-btn path{
+        color: #F3F3F3;
+    }
+
+
+    body[data-theme="dark"] .ce-toolbar__settings-btn:hover path,
+    body[data-theme="dark"] .ce-toolbar__plus:hover path{
+        color: #242424;
+    }
+
+}
+
+body[data-theme="dark"] .ce-popover-item{
+    color: #F3F3F3;
+}
+
+body[data-theme="dark"] .cdx-block span{
+    background-color: #414141 !important;
+}
+
+body[data-theme="dark"] .ce-block.ce-block--selected .cdx-block,
+body[data-theme="dark"] .ce-block.ce-block--selected .ce-block__content,
+body[data-theme="dark"] .ce-block.ce-block--focused .cdx-block{
+    background: #2A2A2A;
+    color: #e0e0e0
+}
+
+body[data-theme="dark"] .ce-inline-toolbar{
+    background: #242424;
+    border: 2px solid #2A2A2A;
+}
+
+body[data-theme="dark"] .cdx-marker{
+    color: #000;
+    background: #fff;
+}
+
+body[data-theme="dark"] .ce-inline-tool-input,
+body[data-theme="dark"] .ce-conversion-tool__icon,
+body[data-theme="dark"] .ce-popover-item__icon,
+body[data-theme="dark"] .ce-popover,
+body[data-theme="dark"] .cdx-search-field,
+body[data-theme="dark"] .cdx-button,
+body[data-theme="dark"] .image-tool__image,
+body[data-theme="dark"] .ce-conversion-toolbar{
+    /* color: #fff; */
+    background: #242424;
+    border-color: #2A2A2A;
+}
+
+body[data-theme="dark"] .cdx-input{
+    border-color: #5e5e5e;
+}
+
+body[data-theme="dark"] .ce-inline-tool:hover,
+body[data-theme="dark"] .ce-inline-toolbar__dropdown:hover,
+body[data-theme="dark"] .ce-popover-item:hover,
+body[data-theme="dark"] .ce-conversion-tool:hover{
+    background: #3c3c3c;
+}
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.title,
+.description {
+  text-align: center;
+}
+
+.description {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.code {
+  background: #282c34;
+  color: #abb2bf;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.blog-page-content {
+  font-family: "Gelasio", sans-serif;
+  font-size: 20px; /* Ukuran font besar */
+  font-weight: normal; /* Ketebalan font normal */
+  line-height: 1.6;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
+.card {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  max-width: 300px;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: #0070f3;
+  border-color: #0070f3;
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.logo {
+  height: 2em;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .card,
+  .footer {
+    border-color: #222;
+  }
+  .code {
+    background: #111;
+  }
+  .logo img {
+    filter: invert(1);
+  }
+}
+
+.banner-container {
+  background-color: #f7f7f7;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.banner-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.banner-text {
+  margin-top: 30px;
+}
+
+.hello-text {
+  font-size: 18px;
+  color: #333;
+}
+
+.welcome-text {
+  font-size: 36px;
+  color: #333;
+  margin: 20px 0;
+}
+
+.description {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.subscribe-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subscribe-form input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px 0 0 5px;
+  width: 300px;
+}
+
+.subscribe-form button.subscribe-btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+/* Styles for the Typewriter effect */
+.typewriter {
+  display: inline-block;
+}
+
+/* Custom CSS for numbered list */
+.custom-numbered-list {
+  padding-left: 1.25rem; /* Adjust the padding as needed */
+}
+
+/* Style for list items */
+.custom-numbered-list li {
+  position: relative;
+  padding-left: 2.5rem; /* Adjust the spacing between number and text */
+  margin-bottom: 0.5rem; /* Adjust the margin between list items */
+}
+
+/* Style for list item numbers */
+.custom-numbered-list li::before {
+  content: counter(numberedList); /* Use a counter for numbering */
+  counter-increment: numberedList;
+  position: absolute;
+  left: 0;
+  width: 2rem; /* Adjust the width of the number container */
+  text-align: center;
+  font-weight: bold;
+  color: #007bff; /* Customize the color of the number */
+}
+
+.custom-bullet-list {
+  list-style-type: disc; /* Change bullet style */
+}
+.footer {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0; /* Change to your desired background color */
+   /* Add padding as needed */
+}
+
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px; /* Add margin bottom for spacing between sections */
+}
+
+@media (min-width: 768px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .footer-container {
+      flex-direction: row;
+  }
+}
+
+/* Style for table */
+/* Table styles */
+
+
+/* Responsive styling */
+@media (prefers-color-scheme: dark) {
+  :root {
+      --border-color: #ddd; /* Border color for dark mode */
+      --table-header-bg: #222; /* Header background color for dark mode */
+      --table-header-color: #fff; /* Header text color for dark mode */
+      --table-cell-bg: #333; /* Cell background color for dark mode */
+      --table-cell-color: #fff; /* Cell text color for dark mode */
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+      --border-color: #ccc; /* Border color for light mode */
+      --table-header-bg: #f2f2f2; /* Header background color for light mode */
+      --table-header-color: #333; /* Header text color for light mode */
+      --table-cell-bg: #fff; /* Cell background color for light mode */
+      --table-cell-color: #333; /* Cell text color for light mode */
+  }
+}
+
+/* Style for pagination buttons */
+.pagination {
+  margin-top: 40px;
+}
+
+.pagination button {
+  padding: 6px 12px;
+  margin-right: 4px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.pagination button:hover {
+  background-color: #f5f5f5;
+}
+
+.pagination button.active {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Style for search input */
+.search-input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid var(--border-color); /* Use CSS variable for border color */
+  border-radius: 5px;
+  font-size: 16px;
+  color: var(--font-color); /* Use CSS variable for font color */
+  outline: none;
+}
+
+.search-input:focus {
+  border-color: var(--focus-color); /* Use CSS variable for focus border color */
+  box-shadow: 0 0 0 2px var(--focus-shadow); /* Use CSS variable for focus box shadow */
+}
+
+/* Responsive styling */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --border-color: #666; /* Border color for dark mode */
+    --font-color: #000; /* Font color for dark mode */
+    --focus-color: #007bff; /* Focus border color for dark mode */
+    --focus-shadow: #007bff20; /* Focus box shadow for dark mode */
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --border-color: #ccc; /* Border color for light mode */
+    --font-color: #333; /* Font color for light mode */
+    --focus-color: #007bff; /* Focus border color for light mode */
+    --focus-shadow: #007bff20; /* Focus box shadow for light mode */
+  }
+}
+
+.circle-button {
+  border-radius: 50%; /* Makes the button circular */
+  background-color: #f5f5f5;
+  width: 40px; /* Adjust the width and height as needed */
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+/* CSS for code editor area */
+.ce-code__textarea {
+  background-color: #CBD5E0; /* Background color */
+  color: #282c34; /* Text color */
+  padding: 1rem; /* Padding around the code editor */
+  margin-bottom: 1rem; /* Margin below the code editor */
+  border-radius: 4px; /* Border radius */
+  font-family: 'Fira Code', monospace; /* Font family */
+  line-height: 1.5; /* Line height */
+  overflow-x: auto; /* Horizontal scroll for overflow */
+}
+
+/* Styling for code within the editor */
+.ce-code code {
+  font-family: 'Fira Code', monospace; /* Font family */
+}
+
+/* Blur untuk mode terang */
+.blur-light {
+  backdrop-filter: blur(8px); /* Menyesuaikan tingkat blur yang diinginkan */
+}
+
+/* Blur untuk mode gelap */
+.blur-dark {
+  backdrop-filter: blur(8px); /* Menyesuaikan tingkat blur yang diinginkan */
+}
+/* CSS untuk CodeBlog */
+.code-blog {
+  background-color: #333; /* Warna latar belakang untuk mode gelap */
+  color: #abb2bf; /* Warna teks untuk mode gelap */
+  border-radius: 5px; /* Radius sudut */
+  font-family: 'Courier New', Courier, monospace; /* Font family */
+  overflow-x: auto; /* Scroll horizontal jika terlalu panjang */
+}
+
+.code-blog code {
+  color: #ffff; /* Warna teks dalam kode */
+  font-size: medium;
+}
+
+/* Latar belakang untuk mode terang */
+@media (prefers-color-scheme: light) {
+  .code-blog {
+    background-color: #333; /* Warna latar belakang untuk mode terang */
+    color: #ffff; /* Warna teks untuk mode terang */
+  }
+}
+
+.latex-box {
+  border: 1px solid #ccc; /* Example border style */
+  padding: 10px; /* Example padding */
+  margin-bottom: 10px; /* Example margin */
+}
+
+.math-tool-wrapper {
+  margin-bottom: 10px;
+}
+
+.math-inline {
+  display: inline-block;
+  font-size: 16px; /* Sesuaikan ukuran font sesuai kebutuhan Anda */
+  vertical-align: middle;
+}
+
+.math-block {
+  display: block;
+  font-size: 16px; /* Sesuaikan ukuran font sesuai kebutuhan Anda */
+  margin: 10px 0; /* Sesuaikan jarak antar blok LaTeX sesuai kebutuhan Anda */
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 50%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.submit-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #403279;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
+
+
+.answer {
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #403279;
+}
+
+.stars-delimiter {
+  font-size: 24px; /* Adjust the size of the stars */
+  text-align: center;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.bg-blur {
+  background: transparent;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* TaskItem.css */
+.completed {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.removeButton,
+.completeButton {
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.removeButton {
+  background-color: #f44336;
+  color: white;
+}
+
+.completeButton {
+  background-color: #4caf50;
+  color: white;
+}
+
+.removeButton:hover,
+.completeButton:hover {
+  opacity: 0.8;
+}
+
+.addtodo__task{
+  border:none;
+  font-size:large;
+  text-decoration: underline 2px solid lightgray;
+  height:6vh;
+  width:50%;
+  font-family:'Alegreya SC', serif;;
+  }
+  .addtodo__task:focus,.addtodo__date:focus{
+      outline: none;
+  }
+  .addtodo__date{
+  border:none;
+  font-size: large;
+  font-family:'Alegreya SC', serif;
+  color:gray;
+  text-decoration: underline;    
+  height:6vh;
+  width:50%;
+  }
+  
+  .addtodo__btn{
+    background-color: #6B7481 ;
+    font-size: large;
+    font-family:'Alegreya SC', serif;
+    color:white;
+    text-align: center;
+    height:4vh;
+    width:100%;
+    border:none;
+  }
+  .addtodo__task:focus,.addtodo__date:focus,.addtodo__btn:focus{
+    outline: none;
+  }
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+}
+
+.todo-item:hover {
+    background-color: #0E71A8;
+}
+
+.check-complete {
+    text-decoration: line-through;
+    color: #808080;
+}
+
+.delete-todo {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.delete-todo:hover .fi {
+    color: #f44336;
+}
+
+.text {
+  text-align: left;
+  flex-grow: 1; /* This will make the text take up the available space */
+}
+
+.input-container {
+  position: relative;
+}
+
+.input-container input {
+  padding-right: 3rem; /* Adjust the padding to ensure the text doesn't overlap with the button */
+  border-radius: 9999px;
+}
+
+.input-container button {
+  position: absolute;
+  right: 0.75rem; /* Adjust the position to align the button with the input field */
+}
+
+.notepad textarea {
+  height: 300px; /* Adjust the height as needed */
+  resize: none; /* Prevent resizing */
+}
+
+
+.custom-bullet-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.custom-bullet-list li {
+  position: relative;
+  padding-left: 20px;
+}
+
+.custom-bullet-list li:before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #4a90e2; /* Change the bullet color */
+}
+
+/* About Us Page Specific Styles */
+.about-us-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.about-us-container h2,
+.about-us-container h3 {
+  margin-bottom: 15px;
+}
+
+.about-us-container p {
+  margin-bottom: 15px;
+}
+
+.about-us-container ul {
+  margin-bottom: 15px;
+}
+
+.about-us-container li {
+  margin-bottom: 10px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .about-us-container {
+    padding: 10px;
+  }
+
+  .about-us-container h2,
+  .about-us-container h3 {
+    font-size: 1.25rem;
+  }
+
+  .about-us-container p,
+  .about-us-container li {
+    font-size: 0.9rem;
+  }
+}
+
+.followers-section,
+.following-section {
+    background-color:transparent;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.followers-section h3,
+.following-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.followers-section ul,
+.following-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.follower-item,
+.following-item {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.follower-item:last-child,
+.following-item:last-child {
+    margin-bottom: 0;
+}
+
+.follower-item a,
+.following-item a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s;
+}
+
+.follower-item a:hover,
+.following-item a:hover {
+    color: #0056b3;
+}
+.pdf-viewer {
+  margin-top: 10px;
+  width: 600px; /* Set the desired width */
+  height: 400px; /* Set the desired height */
+  overflow: auto; /* Add scrollbars if necessary */
+  justify-content: center;
+  align-items: center;
+}
+
+/* chat-history-sidebar.css */
+.chat-history-sidebar {
+  width: 200px;
+  border-left: 1px solid #ddd;
+  padding: 10px;
+}
+
+.chat-history-sidebar h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.chat-history-sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.chat-history-sidebar li {
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.chat-history-sidebar li:last-child {
+  border-bottom: none;
+}
+
+.table-transparent {
+  background: transparent;
+  /* Gaya lainnya untuk tabel */
+  
+}
+
+.table-transparent th,
+.table-transparent td {
+    border: 1px solid black; /* Garis tepi untuk setiap sel */
+    padding: 8px; /* Spasi dalam sel */
+}
+
+/* Hero Section */
+.hero-section {
+  padding: 20px 0;
+  background-color: #f5f5f5; /* Warna latar belakang hero section */
+}
+
+.user-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.user-profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%; /* Mengubah gambar menjadi lingkaran */
+  margin-right: 10px;
+}
+
+.create-post-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.create-post-form input,
+.create-post-form textarea {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.create-post-form button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* BookmarkPage.css */
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex; /* Menggunakan Flexbox */
+  flex-direction: column; /* Menetapkan arah kolom untuk Flexbox */
+}
+
+.card-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+

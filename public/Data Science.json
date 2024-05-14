@@ -1,0 +1,401 @@
+[
+    {
+      "ID": 1,
+      "name": "Global Plastic Polution Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%201%20-%20Global%20Plastic%20Pollution%20Analysis/global-plastic-waste-2010(1).ipynb",
+      "description": "Analisis polusi plastik global menggunakan data sains mengidentifikasi peningkatan jumlah limbah plastik di seluruh dunia. Informasi tersebut mengungkap dampak serius terhadap lingkungan dan mendorong upaya mitigasi untuk mengurangi penggunaan plastik serta meningkatkan daur ulang.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZdhCIla424-whuYmw?e=oXd7zw"
+    },
+    {
+      "ID": 2,
+      "name": "Credit Card Fraud Detection",
+      "link": "https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%202%20-%20Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb",
+      "description": "Credit Card Fraud Detection menggunakan teknik data sains untuk mengidentifikasi aktivitas curang dalam transaksi kartu kredit. Algoritma machine learning menganalisis pola transaksi, mendeteksi anomali, dan melindungi pelanggan serta perusahaan dari kegiatan penipuan finansial.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZdi3CJDWsADHPcOaw?e=MgvVpC"
+    },
+    {
+      "ID": 3,
+      "name": "Stok Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%203%20-%20Stok%20Prediction/Stock%20Prediction.ipynb",
+      "description": "Stok Prediction dalam data sains adalah proses menggunakan algoritma dan analisis statistik untuk meramalkan pergerakan harga saham atau barang dalam pasar keuangan, memanfaatkan data historis untuk membantu investor membuat keputusan investasi yang lebih informasional.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZgYT0euja3KhctCGA?e=qEgGEX"
+    },
+    {
+      "ID": 4,
+      "name": "Movie Recommendation System",
+      "link": "https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%204%20-%20Movie%20Recommendation%20System/Moview%20Recommendation%20System.ipynb",
+      "description": "Movie Recommendation System dalam data sains adalah aplikasi teknologi yang menggunakan algoritma untuk menganalisis preferensi pengguna dan merekomendasikan film yang sesuai, meningkatkan pengalaman menonton dengan akurasi tinggi.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZdjuR02iBO6k_Wvmg?e=1zYlE7"
+    },
+    {
+      "ID": 5,
+      "name": "Human Activity Recognition Using Neural Networks",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%205%20-%20Human%20Activity%20Recognition%20Using%20Neural%20Networks/Human%20Activity%20recognization.ipynb",
+      "description": "Human Activity Recognition Using Neural Networks in data science involves deploying advanced algorithms to analyze and interpret human actions, enhancing pattern recognition for diverse applications like health monitoring and smart devices.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZdkNEMiR61jchiQOQ?e=5NXAxy"
+    },
+    {
+      "ID": 6,
+      "name": "Amazon Reviews for Sentiment Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%206%20-%20Amazon%20Reviews%20for%20Sentiment%20Analysis/Amazon%20Review%20for%20Sentiment%20Analysis.ipynb",
+      "description": "Amazon Reviews for Sentiment Analysis adalah kumpulan ulasan pelanggan di platform e-commerce Amazon yang digunakan dalam analisis sentimen. Data ini memungkinkan ilmuwan data untuk mengeksplorasi dan memodelkan perasaan pelanggan terhadap produk, membantu dalam pemahaman tren pasar dan pengambilan keputusan bisnis.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgaqDq3bh8sUb7koA?e=ixm1ht"
+    },
+    {
+      "ID": 7,
+      "name": "Flower Classification",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%207%20-%20Flower%20Classification/Flower%20classification.ipynb",
+      "description": "Flower Classification dalam data sains adalah proses identifikasi jenis bunga berdasarkan fitur morfologis dan warna menggunakan algoritma pembelajaran mesin. Analisis ini memanfaatkan dataset besar untuk meningkatkan akurasi pengenalan dan mendukung penelitian ekologi serta keberlanjutan lingkungan.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZdnDm2Lw4OH1va2Jg?e=Wrlc4k"
+    },
+    {
+      "ID": 8,
+      "name": "Uber Drives - EDA",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%208%20-%20Uber%20Drives%20-%20EDA/Uber%20Drivers%20EDA.ipynb",
+      "description": "Uber Drives - EDA (Exploratory Data Analysis) merupakan pendekatan dalam ilmu data sains yang mempelajari pola perjalanan Uber untuk mengidentifikasi tren, pemahaman pola pengguna, dan meningkatkan efisiensi layanan transportasi berbasis data.",
+      "dataUrl": "https://1drv.ms/f/s!AnsimFE4lIw-nZdoSzL6e5cu9H6Juw?e=AFMENG"
+    },
+    {
+      "ID": 9,
+      "name": "Grocery Sales Forecast",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%209%20-%20Grocery%20Sales%20Forecast/Grocery%20sales%20analysis.ipynb",
+      "description": "Grocery Sales Forecast menggunakan analisis data untuk memprediksi penjualan produk dagangan harian. Mengintegrasikan faktor seperti tren pembelian, musim, dan preferensi pelanggan untuk menghasilkan proyeksi akurat, memungkinkan pengefisienan stok dan strategi pemasaran yang lebih baik.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgcdmPVmsQCWOb4sA?e=OW1qJT"
+    },
+    {
+      "ID": 10,
+      "name": "Symptom Disease Sorting",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2010%20-%20Symptom%20Disease%20Sorting/Symptom%20Disease%20Sorting.ipynb",
+      "description": "Symptom Disease Sorting merupakan metode dalam data sains yang mengklasifikasikan penyakit berdasarkan gejala yang muncul, memfasilitasi analisis presisi untuk diagnosis medis lebih cepat dan efisien.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgeutiPx8DfnDKsGQ?e=evL7iK"
+    },
+    {
+      "ID": 11,
+      "name": "General Election Poll Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2011%20-%20General%20Election%20Poll%20Analysis/General%20Election%20Poll%20Analysis.ipynb",
+      "description": "Analisis jajak pendapat Pemilihan Umum menggunakan data sains menggabungkan metodologi statistik dan teknik machine learning untuk memahami tren pemilih, preferensi partai, dan prediksi hasil pemilihan. Menggali data survei dan faktor demografis, analisis ini memberikan wawasan mendalam untuk mendukung pengambilan keputusan politik yang informasional.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdpx6JhY9eRhM26zg?e=2mFcCk"
+    },
+    {
+      "ID": 12,
+      "name": "BigMart Sales Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2012%20-%20BigMart%20Sales%20Analysis/Big%20Market%20Sales%20Anlaysis.ipynb",
+      "description": "BigMart Sales Analysis menggunakan pendekatan data sains untuk mengidentifikasi tren penjualan dan pola pembelian di toko. Analisis ini memanfaatkan algoritma dan teknik statistik untuk memberikan wawasan mendalam tentang kinerja produk dan strategi pemasaran yang efektif.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdqthdAyx2gdBteyQ?e=iLyTAI"
+    },
+    {
+      "ID": 13,
+      "name": "Covid 19 Latent Period Exploration",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2013%20-%20Covid%2019%20Latent%20Period%20Exploration/Covid%2019%20.ipynb",
+      "description": "Covid-19 Latent Period Exploration adalah analisis data ilmiah yang mempelajari periode laten virus melalui pendekatan sains. Penelitian ini memeriksa waktu inkubasi virus untuk memahami penyebaran dan strategi pengendalian penyakit.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZggxzidVfSLdedcbg?e=bdTjGi"
+    },
+    {
+      "ID": 14,
+      "name": "IPL Data Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2014%20-%20IPL%20Data%20Analysis/IPL%20Data%20analysis.ipynb",
+      "description": "IPL Data Analysis menggunakan teknik data sains untuk menggali wawasan mendalam dari data permainan kriket IPL. Analisis ini mencakup statistik pemain, kinerja tim, dan tren historis, membantu pengambilan keputusan strategis dalam dunia olahraga.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdrUkJU_TENpsZBlg?e=aAomnc"
+    },
+    {
+      "ID": 15,
+      "name": "Forbes Heighest Paid Athletes",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2015%20-%20Forbes%20Heighest%20Paid%20Athletes/Forbes%20Heighest%20Paid%20Athletes.ipynb",
+      "description": "Forbes Highest Paid Athletes adalah peringkat berbasis data yang menampilkan bintang olahraga terkaya di seluruh dunia. Dengan menggunakan metrik statistik dan informasi keuangan, Forbes menyusun daftar tahunan yang mencerminkan pendapatan atlet dari gaji, sponsor, dan sumber pendapatan lainnya, memberikan gambaran menyeluruh tentang lanskap keuangan industri olahraga.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZds1d4dzECd0wr_Og?e=aXJjeJ"
+    },
+    {
+      "ID": 16,
+      "name": "Supermarket Sales Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2016%20-%20Supermarket%20Sales%20Prediction/supermarket-data-analysis(1).ipynb",
+      "description": "Supermarket Sales Prediction menggunakan analisis data untuk meramalkan penjualan dengan memanfaatkan algoritma dan pola belanja konsumen, memberikan wawasan strategis bagi pemilik toko dalam mengoptimalkan persediaan dan meningkatkan kinerja penjualan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdtXJsoXysfITh7Sg?e=huZzD4"
+    },
+    {
+      "ID": 17,
+      "name": "Hillary Clinton and Donald Trump Tweets",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2017%20-%20Hillary%20Clinton%20and%20Donald%20Trump%20Tweets/Hillary%20Clinton%20and%20Donald%20Trump%20tweets%20(2).ipynb",
+      "description": "Analisis data sains terhadap Tweet Hillary Clinton dan Donald Trump mengungkapkan pola komunikasi politik yang berbeda. Clinton cenderung fokus pada isu kebijakan, sementara Trump menggunakan gaya retorika yang lebih kontroversial. Sentimen positif dan negatif tercermin dalam frekuensi penggunaan kata kunci tertentu, memberikan wawasan mendalam tentang strategi komunikasi keduanya.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZduhOaIK_65v8tqfg?e=w5b0uH"
+    },
+    {
+      "ID": 18,
+      "name": "Predict Star Types",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2018%20-%20Predict%20Star%20Types/Predict%20Star%20Types%20(2).ipynb",
+      "description": "Predict Star Types merupakan metode dalam data sains yang memanfaatkan analisis statistik dan machine learning untuk memprediksi jenis bintang berdasarkan karakteristik astronomisnya, seperti suhu, luminositas, dan massa.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdvS9MKO7n0t7rnhg?e=h0WGXd"
+    },
+    {
+      "ID": 19,
+      "name": "Twitter Us Airline Sentiment Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2019%20-%20Twitter%20Us%20Airline%20Sentiment%20Analysis/Twitter%20US%20Sentiment%20Analysis.ipynb",
+      "description": "Twitter US Airline Sentiment Analysis menggunakan metode data sains untuk menganalisis sentimen pengguna terhadap maskapai udara. Proyek ini menyelidiki pola dan tren dalam tweet, memungkinkan pemahaman mendalam terhadap opini dan respon pelanggan terhadap layanan penerbangan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdwcQsqGkfpd-5tsA?e=ioI16r"
+    },
+    {
+      "ID": 20,
+      "name": "London-based hotels analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2020%20-London-based%20hotels%20analysis/London%20Based%20Hotels%20analysis.ipynb",
+      "description": "Analisis hotel berbasis di London melibatkan pengumpulan dan penelitian data untuk memahami tren permintaan, harga, dan ulasan pelanggan. Pendekatan data sains digunakan untuk meningkatkan pengalaman penginapan dan strategi bisnis di pasar hotel metropolitan ini.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdxGyzaI-lPILbTrg?e=ci0ts1"
+    },
+    {
+      "ID": 21,
+      "name": "US Candy Production by Month",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2021%20-US%20Candy%20Production%20by%20Month/US%20Candy%20Production%20by%20month.ipynb",
+      "description": "Analisis produksi permen di Amerika Serikat menunjukkan fluktuasi yang signifikan setiap bulannya. Data sains menggambarkan tren dan pola produksi permen selama setahun, memberikan wawasan tentang preferensi konsumen dan potensi pengaruh musiman terhadap industri permen di AS.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdy6ZwNeuElmx-afg?e=UvjqcC"
+    },
+    {
+      "ID": 22,
+      "name": "Air Quality Index Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2022%20-%20Air%20Quality%20Index%20Analysis/Air%20Quality%20Index.ipynb",
+      "description": "Air Quality Index Analysis menggunakan data sains untuk mengevaluasi kualitas udara, mengukur parameter seperti partikel PM2.5, ozon, dan karbon dioksida. Metode ini memberikan informasi terkini tentang tingkat polusi udara untuk mendukung kebijakan lingkungan dan kesehatan masyarakat.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdzag1jI0gW6jR5-Q?e=rngjWc"
+    },
+    {
+      "ID": 23,
+      "name": "Employee Attrition",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2023%20-%20Employee%20Attrition/Employee%20Attrition.ipynb",
+      "description": "Employee Attrition dalam data sains adalah analisis keberangkatan karyawan dari perusahaan berdasarkan data statistik. Melibatkan penggunaan teknik machine learning untuk memahami pola, faktor, dan tren yang memengaruhi tingkat perpindahan karyawan, membantu organisasi dalam pengelolaan sumber daya manusia dan retensi talenta.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd0UokdibLkb1kUSA?e=c46z5b"
+    },
+    {
+      "ID": 24,
+      "name": "In Vehicle Coupon Recommendation",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2024%20-%20In%20Vehicle%20Coupon%20Recommendation/In%20vehicle%20coupon%20recommendation.ipynb",
+      "description": "In Vehicle Coupon Recommendation adalah aplikasi data sains yang menggabungkan analisis perilaku pengemudi dan preferensi konsumen untuk memberikan rekomendasi kupon secara real-time, meningkatkan pengalaman berbelanja di dalam kendaraan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd1eNTbzaHMbYSRrQ?e=tGbbw1"
+    },
+    {
+      "ID": 25,
+      "name": "Market Basket Analysis using apriori Algorithm",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2025%20-%20Market%20Basket%20Analysis%20using%20apriori%20Algorithm/market-basket-analysis-using-apriori-algorithm.ipynb",
+      "description": "Market Basket Analysis menggunakan Algoritma Apriori untuk mengidentifikasi pola pembelian bersama dalam data sains. Analisis ini memungkinkan penemuan hubungan antarproduk, membantu perusahaan membuat strategi penjualan yang lebih efektif dan meningkatkan pengalaman pelanggan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd2vfwJzz9aaJt57g?e=ytWHXe"
+    },
+    {
+      "ID": 26,
+      "name": "Garbage Classification",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2026%20-%20Garbage%20Classification/garbage-classification.ipynb",
+      "description": "Garbage Classification dalam data sains adalah proses identifikasi dan pemisahan jenis sampah menggunakan teknologi seperti machine learning. Menggunakan algoritma, data tentang sampah diklasifikasikan secara otomatis, memungkinkan pengelolaan limbah yang lebih efisien dan berkelanjutan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd34toUjnDmlJNjXQ?e=SxUm6w"
+    },
+    {
+      "ID": 27,
+      "name": "Global Plastic Pollution Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2027%20-%20Global%20Plastic%20Pollution%20Analysis/global-plastic-waste-2010.ipynb",
+      "description": "Analisis Polusi Plastik Global menggambarkan peningkatan kritis limbah plastik di seluruh dunia. Data ilmiah menyoroti dampak lingkungan yang merugikan, termasuk kerusakan ekosistem laut dan risiko kesehatan manusia. Solusi berbasis data diperlukan untuk mengatasi krisis ini secara efektif.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd5coT-fuLWEfdIZg?e=2hXDdo"
+    },
+    {
+      "ID": 28,
+      "name": "HealthCare - Investment _ Hospital Stay Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2028%20-%20HealthCare%20-%20Investment%20_%20Hospital%20Stay%20Analysis/oecd-healthcare-investments-and-hospital-stay(1).ipynb",
+      "description": "Analisis Investasi Kesehatan menggunakan data sains untuk mengevaluasi dampak investasi terhadap lama rawat inap di rumah sakit. Memanfaatkan data untuk mengidentifikasi pola, efisiensi, dan pengaruh investasi terhadap kualitas layanan kesehatan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd63DXr5Ctuy0QL4A?e=BflOtT"
+    },
+    {
+      "ID": 29,
+      "name": "Covid 19 - India State Wise analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2029%20-%20Covid%2019%20-%20India%20State%20Wise%20analysis/covid%2019%20india%20state%20wise%20analysis.ipynb",
+      "description": "Analisis Covid-19 di India secara regional menyoroti perbedaan kasus dan tren penyebaran di setiap negara bagian. Data sains menggambarkan variasi signifikan dalam tingkat infeksi, pemulihan, dan kematian, memungkinkan pemahaman yang lebih baik untuk menginformasikan kebijakan penanganan pandemi secara efektif.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd7M4E_c8cfNBvQ3w?e=vAHHeo"
+    },
+    {
+      "ID": 30,
+      "name": "EDA Haberman(Titanic)",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2030%20-%20EDA%20Haberman(Titanic)/eda-haberman(1).ipynb",
+      "description": "Exploratory Data Analysis (EDA) on the Haberman Titanic dataset involves investigating survival patterns, demographics, and factors influencing passenger outcomes. Analyzing this dataset unveils insights crucial for understanding the historical tragedy.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd8iW2nQfI2GzYnAg?e=c48VlG"
+    },
+    {
+      "ID": 31,
+      "name": "Predicting Diamond Prices",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2031%20-%20Predicting%20Diamond%20Prices/predicting-diamond-prices.ipynb",
+      "description": "Predicting Diamond Prices menggunakan analisis data untuk mengidentifikasi faktor-faktor yang mempengaruhi harga berlian. Model statistik digunakan untuk meramalkan nilai berlian berdasarkan karakteristik seperti karat, warna, dan kejernihan, memungkinkan pengambilan keputusan yang lebih cerdas dalam perdagangan berlian.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd9hl-lZ56bj9zgEw?e=ZuGZ5u"
+    },
+    {
+      "ID": 32,
+      "name": "HealthCare - Health Care Cost Analysis",
+      "link": "https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2032%20-%20HealthCare%20-%20Health%20Care%20Cost%20Analysis/health-care-cost-analysis.ipynb",
+      "description": "HealthCare Cost Analysis menggunakan data sains untuk menganalisis dan memahami biaya kesehatan. Pendekatan ini memanfaatkan teknik analisis data untuk mengidentifikasi tren, pola, dan faktor yang memengaruhi biaya layanan kesehatan, membantu pengambilan keputusan yang lebih efisien dalam manajemen biaya dan peningkatan sistem perawatan kesehatan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd-ThvyZn_cW4ed2A?e=ZfiAWZ"
+    },
+    {
+      "ID": 33,
+      "name": "HealthCare - Investment & Hospital Stay Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2034%20-%20HealthCare%20-%20Investment%20%26%20Hospital%20Stay%20Analysis/hospital%20stay.ipynb",
+      "description": "Healthcare Investment & Hospital Stay Analysis menggunakan data sains untuk mengevaluasi dampak investasi dalam layanan kesehatan dan menganalisis durasi rawat inap. Penelitian ini memanfaatkan metode analisis data untuk memberikan wawasan tentang efisiensi sistem perawatan kesehatan dan mengoptimalkan investasi di sektor ini.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZd_5d_JH8wqza-Xig?e=I12sHV"
+    },
+    {
+      "ID": 34,
+      "name": "Women Entrepreneurship & Labor Force",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2035%20-%20Women%20Entrepreneurship%20%26%20Labor%20Force/women-analysis.ipynb",
+      "description": "Peran perempuan dalam kewirausahaan dan pasar tenaga kerja menjadi fokus utama dalam data sains. Analisis menyeluruh terhadap partisipasi, dampak ekonomi, dan tantangan yang dihadapi oleh pengusaha perempuan memberikan wawasan mendalam untuk mendukung pertumbuhan inklusif dan kesetaraan gender.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgAv6mmEvx6TV3DYw?e=1oZx8A"
+    },
+    {
+      "ID": 35,
+      "name": "HealthCare -  Disease Symtoms Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2036%20-%20HealthCare%20-%20%20Disease%20Symtoms%20Prediction/disease-prediction-random-forest-100-acc.ipynb",
+      "description": "HealthCare - Disease Symptoms Prediction menggunakan data sains untuk meramalkan gejala penyakit secara akurat. Dengan analisis mendalam, sistem ini membantu deteksi dini penyakit, meningkatkan perawatan pasien, dan memajukan bidang kesehatan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgBOMSiuGSgV4L6MA?e=c00uow"
+    },
+    {
+      "ID": 36,
+      "name": "Income Predictive Modeling",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2036%20-%20HealthCare%20-%20%20Disease%20Symtoms%20Prediction/disease-prediction-random-forest-100-acc.ipynb",
+      "description": "Income Predictive Modeling menggunakan analisis data untuk meramalkan pendapatan individu atau kelompok. Menggabungkan statistik dan machine learning, model ini memprediksi potensi pendapatan berdasarkan faktor seperti pendidikan, pekerjaan, dan lokasi, memungkinkan pengambilan keputusan yang lebih akurat dalam perencanaan ekonomi.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgCs4wOeCUxHN3_CQ?e=ScA5fE"
+    },
+    {
+      "ID": 37,
+      "name": "Youtube Trending video Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2036%20-%20HealthCare%20-%20%20Disease%20Symtoms%20Prediction/disease-prediction-random-forest-100-acc.ipynb",
+      "description": "YouTube Trending Video Analysis dalam data sains melibatkan ekstraksi dan interpretasi data dari video populer untuk mengungkap pola, preferensi, dan tren penonton. Pendekatan ini memanfaatkan teknik statistik dan machine learning untuk memberikan wawasan mendalam tentang perilaku pengguna dan faktor-faktor yang memengaruhi popularitas konten.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgDjJTt323yDm2RPA?e=oiQicp"
+    },
+    {
+      "ID": 38,
+      "name": "US Household Income Statistics",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2039%20-%20US%20Household%20Income%20Statistics/income%20statistics.ipynb",
+      "description": "Data sains mengenai statistik pendapatan rumah tangga di Amerika Serikat menyajikan gambaran jumlah pendapatan rata-rata dan distribusinya. Informasi ini membantu mengidentifikasi tren ekonomi, disparitas sosial, dan mendukung pengambilan keputusan kebijakan untuk meningkatkan kesejahteraan masyarakat.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgEOVCDDZMxU5YksQ?e=nRlD93"
+    },
+    {
+      "ID": 39,
+      "name": "HealthCare - Covid-19 ICU Patients Analysis & Visualization",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2040%20-%20HealthCare%20-%20Covid-19%20ICU%20Patients%20Analysis%20%26%20Visualization/covid-icu-preds-knn-svm-rf(1).ipynb",
+      "description": "Analisis & Visualisasi ICU Pasien Covid-19 dalam data sains menyediakan wawasan mendalam terkait kondisi kesehatan. Melibatkan metode statistik dan grafis, studi ini mengungkap tren, faktor risiko, dan pola geografis yang mendukung pengambilan keputusan efektif dalam penanganan pasien ICU Covid-19.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgGwiQ45C9rtohSAA?e=IuYlJR"
+    },
+    {
+      "ID": 40,
+      "name": "Disney Studio Income Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2041%20-%20Disney%20Studio%20Income%20Analysis/disney-analysis.ipynb",
+      "description": "Analisis pendapatan Disney Studio melibatkan pengolahan data sains untuk mengidentifikasi tren kinerja finansial. Melalui teknik analisis statistik dan visualisasi data, dapat ditemukan pola penghasilan, sumber pendapatan terbesar, dan faktor-faktor yang memengaruhi kinerja keuangan studio ini.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgHAXbZk40bhGj9bg?e=965Kq8"
+    },
+    {
+      "ID": 41,
+      "name": "Company Bankruptcy Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2042%20-%20Company%20Bankruptcy%20Prediction/bankruptcy-prediction.ipynb",
+      "description": "Company Bankruptcy Prediction menggunakan data sains untuk menganalisis dan memprediksi risiko kebangkrutan suatu perusahaan. Menggunakan model statistik dan machine learning, pendekatan ini membantu mengidentifikasi potensi kegagalan keuangan untuk mendukung pengambilan keputusan bisnis yang lebih baik.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgItcMaOw_uHsCZEA?e=fDLgSg"
+    },
+    {
+      "ID": 42,
+      "name": "Drinking Water Potability",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2043%20-%20Drinking%20Water%20Potability/drinking-water-potability(1).ipynb",
+      "description": "Drinking Water Potability adalah analisis data sains yang mengevaluasi kualitas air minum. Melibatkan parameter seperti pH, kandungan logam, dan bakteri untuk menentukan apakah air aman dikonsumsi sesuai standar kesehatan.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgJTWgMggZvWxX9OQ?e=3oCc7h"
+    },
+    {
+      "ID": 43,
+      "name": "Ground Hog Day Predictions",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2044%20-%20Ground%20Hog%20Day%20Predictions/ground-hog-day-predictions(1).ipynb",
+      "description": "Groundhog Day Predictions menggunakan data cuaca dan perilaku groundhog untuk meramalkan durasi musim dingin. Metode ini menggabungkan analisis statistik dengan observasi hewan untuk memberikan prediksi akurat tentang berapa lama sisa musim dingin akan berlangsung.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgLNnCNwLeVLAfaQA?e=nhZU9x"
+    },
+    {
+      "ID": 44,
+      "name": "Forbes Billionaires 2021 Data Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2045%20-%20Forbes%20Billionaires%202021%20Data%20Analysis/forbes-billionaires-2021.ipynb",
+      "description": "Analisis Data Forbes Billionaires 2021 melibatkan ekstraksi dan pemodelan informasi kekayaan individu terkaya di dunia. Dengan menggunakan teknik data sains, pengolahan besar data memungkinkan identifikasi tren kekayaan, distribusi aset, dan faktor-faktor ekonomi yang memengaruhi peringkat para miliarder global pada tahun tersebut.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgM0VjhVA5o3V7EqQ?e=6HaeHL"
+    },
+    {
+      "ID": 45,
+      "name": "Marketing Campaign Result Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2046%20-%20Marketing%20Campaign%20Result%20Prediction/predict-response-by-using-random%20forest.ipynb",
+      "description": "Marketing Campaign Result Prediction menggunakan analisis data untuk memprediksi hasil kampanye pemasaran. Dengan memanfaatkan teknik data sains, model dapat mengidentifikasi pola dan tren konsumen, memberikan wawasan untuk meningkatkan strategi pemasaran dan meningkatkan efektivitas kampanye.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgNq_jhjvEyrWEBWw?e=CcvA0a"
+    },
+    {
+      "ID": 46,
+      "name": "Social Network Ads Result Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2047%20-%20Social%20Network%20Ads%20Result%20Analysis/prediction-of-if-the-item-is-purchase.ipynb",
+      "description": "Social Network Ads Result Analysis menggunakan data sains untuk menyelidiki efektivitas iklan. Melalui analisis data, kita dapat mengukur kinerja kampanye, identifikasi target audience yang tepat, dan optimalisasi strategi pemasaran berbasis media sosial untuk mencapai hasil yang lebih baik.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgOGRFLihG1DzY1uw?e=h5hqgl"
+    },
+    {
+      "ID": 47,
+      "name": "The Economic Freedom Index",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2048%20-%20The%20Economic%20Freedom%20Index/starter-the-economic-freedom-index-4e3dfcca-3.ipynb",
+      "description": "Indeks Kebebasan Ekonomi adalah metrik dalam data sains yang mengukur tingkat kebebasan ekonomi suatu negara. Menggunakan parameter seperti regulasi, kebijakan fiskal, dan keamanan properti, indeks ini memberikan gambaran holistik tentang kondisi ekonomi, memfasilitasi analisis data yang mendalam untuk perbandingan kinerja ekonomi global.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgPsB3aJ3WY0HNdPA?e=95MeYA"
+    },
+    {
+      "ID": 48,
+      "name": "Tesla Car Price Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2049%20-%20Tesla%20Car%20Price%20Prediction/eda-linear-regression.ipynb",
+      "description": "Tesla Car Price Prediction menggunakan analisis data sains untuk memprediksi harga mobil Tesla berdasarkan faktor-faktor seperti kinerja historis, teknologi terbaru, dan tren pasar. Model ini memanfaatkan algoritma machine learning untuk memberikan perkiraan harga yang akurat.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgQHJaxYujLRTDlqg?e=DkGRsH"
+    },
+    {
+      "ID": 49,
+      "name": "Tokyo 2020 Monitor Tweets Frequency",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2050%20-%20%20Tokyo%202020%20Monitor%20Tweets%20Frequency/tokyo-2020-monitor-tweets-frequency(1).ipynb",
+      "description": "Tokyo 2020 Monitor Tweets Frequency adalah proyek data sains yang menganalisis frekuensi tweet terkait Olimpiade Tokyo 2020. Menggunakan algoritma pemrosesan bahasa alami, proyek ini menyajikan informasi berharga tentang tren dan sentimen melalui analisis data tweet dalam waktu nyata.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgR_WiKr-ORYCeC_A?e=eLzh7V"
+    },
+    {
+      "ID": 50,
+      "name": "Real Estate Price Prediction",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2050%20-%20Real%20Estate%20Price%20Prediction/real-estate-dataset-analysis.ipynb",
+      "description": "Real Estate Price Prediction menggunakan analisis data sains untuk meramalkan nilai properti berdasarkan tren pasar, lokasi, dan faktor ekonomi. Algoritma machine learning digunakan untuk mengoptimalkan prediksi harga, memberikan wawasan berharga bagi pemangku kepentingan industri properti.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgSILilgsVnXHa22g?e=v3G0Yp"
+    },
+    {
+      "ID": 51,
+      "name": "Who Life Expectancy Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2052%20-%20Who%20Life%20Expectancy%20Analysis/life-expectancy-eda.ipynb",
+      "description": "Who Life Expectancy Analysis adalah studi data sains yang menyelidiki faktor-faktor yang memengaruhi harapan hidup global. Analisis ini memanfaatkan dataset kesehatan dan demografi untuk mengidentifikasi tren, pola, dan variabel yang memengaruhi umur harapan penduduk dunia.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgTmsWcSu5Ig_DfBA?e=0mVEgc"
+    },
+    {
+      "ID": 52,
+      "name": "Twitter Sentiment Analysis",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%2053%20-%20Twitter%20Sentiment%20Analysis/twitter-sentiment-analysis.ipynb",
+      "description": "Twitter Sentiment Analysis menggunakan teknik analisis data untuk mengekstrak dan menganalisis opini atau perasaan pengguna Twitter terhadap suatu topik. Dengan memanfaatkan algoritma dan teknik pemrosesan bahasa alami, tujuan utamanya adalah mengidentifikasi apakah sentimen suatu tweet bersifat positif, negatif, atau netral.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdl1N9h0KFXdSsWHA?e=zRmNqK"
+    },
+    {
+      "ID": 53,
+      "name": "Customer Segmentation",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Project%2054%20-%20Customer%20Segmentation/customer-segmentation.ipynb",
+      "description": "Customer Segmentation dalam data sains adalah proses mengelompokkan pelanggan berdasarkan pola perilaku, preferensi, dan karakteristik demografis. Analisis ini memungkinkan perusahaan untuk menyesuaikan strategi pemasaran dan layanan, meningkatkan retensi pelanggan, dan meningkatkan kepuasan konsumen.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZdm6WaLTMMJFnuGtA?e=VcRorT"
+    },
+    {
+      "ID": 54,
+      "name": "HealthCare Analytics",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2055%20-%20HealthCare%20Analytics/healthcare_analytics.ipynb",
+      "description": "Healthcare Analytics dalam data sains menggabungkan teknologi analitik untuk mengolah dan menganalisis data kesehatan. Memanfaatkan informasi pasien dan data medis, solusi ini membantu penyedia layanan kesehatan membuat keputusan informasi yang lebih cerdas dan efisien.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgUZ2YmUOhHsCZoog?e=sJmQx8"
+    },
+    {
+      "ID": 55,
+      "name": "The Economic Freedom Index",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2056%20-%20The%20Economic%20Freedom%20Index/starter-the-economic-freedom-index-4e3dfcca-3(1).ipynb",
+      "description": "Indeks Kebebasan Ekonomi adalah metrik dalam data sains yang mengukur tingkat kebebasan ekonomi suatu negara. Dengan memanfaatkan indikator seperti regulasi, kebijakan fiskal, dan keamanan properti, indeks ini menyediakan gambaran tentang kondisi ekonomi suatu negara secara kuantitatif.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgVCoVkJrU-Smt2hg?e=8fputn"
+    },
+    {
+      "ID": 56,
+      "name": "Women Entrepreneurship _ Labor Force",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2057%20-%20Women%20Entrepreneurship%20_%20Labor%20Force/women-analysis(1).ipynb",
+      "description": "Women entrepreneurship in the labor force is a dynamic aspect of data science, showcasing the growing presence of women-owned businesses. Analyzing data reveals trends, challenges, and opportunities, providing valuable insights for fostering gender equality and economic empowerment.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgWjSgaTKSFSQyvzQ?e=jNPXil"
+    },
+    {
+      "ID": 57,
+      "name": "Garbage Classification",
+      "link":"https://colab.research.google.com/github/projeksainsdata/Data-Science-Projek/blob/main/Data%20Science%20Projects%2058%20-%20Garbage%20Classification/garbage-classification.ipynb`",
+      "description": "Garbage Classification dalam data sains melibatkan pengumpulan, analisis, dan pemodelan data terkait jenis sampah untuk meningkatkan efisiensi daur ulang. Pendekatan ini memungkinkan pengelolaan limbah yang lebih berkelanjutan melalui teknologi informasi dan pemahaman mendalam terhadap karakteristik setiap jenis sampah.",
+      "dataUrl":"https://1drv.ms/f/s!AnsimFE4lIw-nZgXEuT2fSngqOIZcw?e=kNFoBR"
+    }
+  ]
